@@ -35,6 +35,7 @@ lerna-debug.log
 node_modules/
 jspm_packages/
 bower_components/
+dist_electron/
 
 npm-debug.log
 yarn-error.log
