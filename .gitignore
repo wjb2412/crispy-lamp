@@ -22,3 +22,43 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# node
+node_modules/
+
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+lerna-debug.log
+
+
+node_modules/
+jspm_packages/
+bower_components/
+
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+lerna-debug.log
+.serverless
+
+.env
+.env.test
+.custom-env
+
+# cache files
+.yarn/cache
+.yarn/unplugged
+.yarn/install-state.gz
+.eslintcache
+.cache
+.parcel-cache
+.npm
+
+# vs editor related files
+.vscode-test
+.vscode
+
+
+# idea
+.idea/
